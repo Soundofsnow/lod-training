@@ -6,6 +6,6 @@ Instancia de laboratorio:
 
 @lab.LabInstance.Id
 
-En el cuadro a continuación, escriba el nombre de su comida favorita:
+En el cuadro a continuación, escriba el nombre de su **Comida Favorita**:
 
 @lab.TextBox(food)

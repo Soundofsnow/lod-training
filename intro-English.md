@@ -2,8 +2,10 @@
 
 These instructions are presented in English
 
-Lab Instance: @lab.LabInstance.Id
+Lab Instance: 
 
-Click to View My Favorite Food
+@lab.LabInstance.Id
+
+Enter your Favorite Food in the box below:
 
 @lab.TextBox(food)

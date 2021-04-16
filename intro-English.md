@@ -6,6 +6,6 @@ Lab Instance:
 
 @lab.LabInstance.Id
 
-Enter your Favorite Food in the box below:
+Enter your **Favorite Food** in the box below:
 
 @lab.TextBox(food)

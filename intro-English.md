@@ -9,3 +9,5 @@ Lab Instance:
 Enter your **Favorite Food** in the box below:
 
 @lab.TextBox(food)
+
+@lab.Activity(Englishfavfood)

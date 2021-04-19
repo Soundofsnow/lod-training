@@ -9,3 +9,5 @@ Instancia de laboratorio:
 En el cuadro a continuación, escriba el nombre de su **Comida Favorita**:
 
 @lab.TextBox(food)
+
+@lab.Activity(Spanishfavfood)
